@@ -1,0 +1,161 @@
+body{
+    background-color: rgb(164, 201, 245);
+    display: flexbox;
+}
+.cards{
+    height:303px;
+    width:200px;
+    border: 2px inset black;
+    background-color: azure;
+    text-align: center;
+    box-shadow: 1px 1px tomato;  
+    margin:auto;
+    display: inline-block;
+
+}
+.card{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+.card_info{
+    height:100px;
+    width:200px;
+    display:block;
+}
+.head{
+    text-shadow: 1px 1px tomato;
+}
+.para{
+    text-shadow: 1px 1px yellowgreen;
+}
+.cards2{
+    height:303px;
+    width:200px;
+    border: 2px inset black;
+    background-color: azure;
+    text-align: center;
+    box-shadow: 1px 1px tomato;  
+    margin:auto;
+    display: inline-block;
+}
+.card2{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+.card_info2{
+    height:100px;
+    width:200px;
+    display:block;
+}
+.head2{
+    text-shadow: 1px 1px tomato;
+}
+.para2{
+    text-shadow: 1px 1px yellowgreen;
+}
+.cards3{
+    height:303px;
+    width:200px;
+    border: 2px inset black;
+    background-color: azure;
+    text-align: center;
+    box-shadow: 1px 1px tomato;  
+    margin:auto;
+    display: inline-block;
+}
+.card3{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+.card_info3{
+    height:100px;
+    width:200px;
+    display:block;
+}
+.head3{
+    text-shadow: 1px 1px tomato;
+}
+.para3{
+    text-shadow: 1px 1px yellowgreen;
+}
+.cards4{
+    height:303px;
+    width:200px;
+    border: 2px inset black;
+    background-color: azure;
+    text-align: center;
+    box-shadow: 1px 1px tomato;  
+    margin:auto;
+    display: inline-block;
+}
+.card4{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+.card_info4{
+    height:100px;
+    width:200px;
+    display:block;
+}
+.head4{
+    text-shadow: 1px 1px tomato;
+}
+.para4{
+    text-shadow: 1px 1px yellowgreen;
+}
+.cards5{
+    height:303px;
+    width:200px;
+    border: 2px inset black;
+    background-color: azure;
+    text-align: center;
+    box-shadow: 1px 1px tomato;  
+    margin:auto;
+    display: inline-block;
+}
+.card5{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+.card_info5{
+    height:100px;
+    width:200px;
+    display:block;
+}
+.head5{
+    text-shadow: 1px 1px tomato;
+}
+.para5{
+    text-shadow: 1px 1px yellowgreen;
+}
+.cards6{
+    height:303px;
+    width:200px;
+    border: 2px inset black;
+    background-color: azure;
+    text-align: center;
+    box-shadow: 1px 1px tomato;  
+    margin:auto;
+    display: inline-block;
+}
+.card6{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+.card_info6{
+    height:100px;
+    width:200px;
+    display:block;
+}
+.head6{
+    text-shadow: 1px 1px tomato;
+}
+.para6{
+    text-shadow: 1px 1px yellowgreen;
+}
